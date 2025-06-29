@@ -6,5 +6,5 @@ draft: false
 Hello World! This is my first article.
 I love this equation:
 $$
-e**{i\pi} + 1 = 0
+e^{i\pi} + 1 = 0
 $$
